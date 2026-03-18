@@ -1,0 +1,1 @@
+curl -sL https://raw.githubusercontent.com/FASHAKING/Billions-verified-agent-installer/main/install-agent-codespaces.sh | bash
